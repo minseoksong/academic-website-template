@@ -7,27 +7,16 @@ permalink: /
 
 ### Welcome!
 
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
-I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+Welcome to my homepage! I am Minseok Song, a Professor at <a href="https://ime.postech.ac.kr" target="_blank">Department of Industrial & Management Engineering</a> at <a href="https://www.postech.ac.kr" target="_blank">POSTECH (Pohang University of Science and Technology)</a>. I am also the head of <a href="https://oibc.postech.ac.kr" target="_blank">Open Innovation Big Data Center</a> at POSTECH and an Associated Partner member of <a href="https://www.ercis.org/" target="_blank">ERCIS(European Research Center for Information Systems)</a>. I’m an **industrial engineer** by training with a background in information systems and computer science. I also have enough data science and artificial intelligence expertise to solve engineering problems. My research interests include process mining, recommendation systems, business analytics, and industrial AI.
 
-<div class="container">
-<div class="row">
-<center>
-<iframe src="https://player.vimeo.com/video/455688517?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-Transition to chaos of flowing red blood cells. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
-</center>
-</div>
-</div>
-<br/>
 
-### About me
+### Research overview
 
-I am a Senior Postdoctoral Scholar at the California Institute of Technology, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
+My research goal is to create and apply new technologies and paradigms in IE/MS and IT disciplines to improve business processes in an organization. My main research topic is process mining which aims to analyze and improve business processes. In addition, my research interests include process simulation, healthcare information systems, manufacturing process analysis, and industrial AI. 
+
+I have published over 130 papers, including 50 journal articles. My publications have appeared in journals such as Decision Support Systems, Journal of Information Technology, Information Systems, International Journal of Medical Informatics, IEEE Transactions on Semiconductor Manufacturing, and Expert Systems with Applications. 
+
+I have conducted over 30 research projects (totaling $6 million) as a principal investigator and have applied industrial engineering principles and information technologies to various real-world problems. Substantial research grants include the EU Horizon 2020 (RISE-BPM) project with eight universities in Europe, Australia, South America, and Korea, an early-career researcher grant, and a mid-career researcher grant from the National Research Foundation of Korea. The methodology and software systems that I have developed are used in various organizations such as Samsung Electronics, Samsung C&T, POSCO, and Samsung Heavy Industry. I have also developed a process mining software system and transferred it to <a href="http://puzzledata.com" target="_blank">Puzzle Data</a> for commercialization.
+
+For more information, please visit my lab, <a href="https://aim.postech.ac.kr" target="_blank">Analytics & Information Management(AIM) Lab</a>.
+

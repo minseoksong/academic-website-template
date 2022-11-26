@@ -1,10 +1,20 @@
-- image: NSF.png
-  url: https://www.nsf.gov/
-- image: doe_logo.png
-  url: https://www.energy.gov/
-- image: onr_logo.png
-  url: https://www.onr.navy.mil/
-- image: NIH-logo.png
-  url: https://www.nih.gov/
-- image: nnsa_logo.png
-  url: https://www.energy.gov/nnsa/national-nuclear-security-administration
+- image: nrf-logo.png
+  url: https://www.nrf.re.kr/index
+- image: mtie-logo.png
+  url: http://www.motie.go.kr/
+- image: msict-logo.jpg
+  url: https://www.msit.go.kr/
+- image: snuhbd_logo.png
+  url: https://www.snubh.org/
+- image: posco-logo.png
+  url: https://www.posco.com/
+- image: shi_logo.gif
+  url: http://www.samsungshi.com
+- image: samsung-logo.png
+  url: https://semiconductor.samsung.com/kr/
+- image: ssfshop-logo.png
+  url: https://www.ssfshop.com/
+- image: kb-logo.png
+  url: www.kbfg.com
+
+
